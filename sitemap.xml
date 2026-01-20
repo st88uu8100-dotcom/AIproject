@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- 메인 페이지 -->
+  <url>
+    <loc>https://st88uu8100-dotcom.github.io/AIproject/</loc>
+    <lastmod>2026-01-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Why I Started -->
+  <url>
+    <loc>https://st88uu8100-dotcom.github.io/AIproject/why-i-started.html</loc>
+    <lastmod>2026-01-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Testing Without Expectations -->
+  <url>
+    <loc>https://st88uu8100-dotcom.github.io/AIproject/testing-without-expectations.html</loc>
+    <lastmod>2026-01-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Understanding Strengths and Limits -->
+  <url>
+    <loc>https://st88uu8100-dotcom.github.io/AIproject/understanding-strengths-and-limits.html</loc>
+    <lastmod>2026-01-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Connecting Tools to Real Problems -->
+  <url>
+    <loc>https://st88uu8100-dotcom.github.io/AIproject/connecting-tools-to-real-problems.html</loc>
+    <lastmod>2026-01-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- From Tools to Systems -->
+  <url>
+    <loc>https://st88uu8100-dotcom.github.io/AIproject/from-tools-to-systems.html</loc>
+    <lastmod>2026-01-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- First Attempts (Failure) -->
+  <url>
+    <loc>https://st88uu8100-dotcom.github.io/AIproject/first-attempts-failure.html</loc>
+    <lastmod>2026-01-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Changing Direction -->
+  <url>
+    <loc>https://st88uu8100-dotcom.github.io/AIproject/changing-direction.html</loc>
+    <lastmod>2026-01-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Systematizing -->
+  <url>
+    <loc>https://st88uu8100-dotcom.github.io/AIproject/systematizing.html</loc>
+    <lastmod>2026-01-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- First Revenue -->
+  <url>
+    <loc>https://st88uu8100-dotcom.github.io/AIproject/first-revenue.html</loc>
+    <lastmod>2026-01-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Where I Am Now -->
+  <url>
+    <loc>https://st88uu8100-dotcom.github.io/AIproject/where-i-am-now.html</loc>
+    <lastmod>2026-01-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+</urlset>
